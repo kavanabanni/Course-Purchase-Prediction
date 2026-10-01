@@ -1,7 +1,6 @@
 # 📚 Student Course Purchase Prediction
 
-Predicts whether a student on an online learning platform will **purchase a course**, using learning-behavior data. Built during a Data Science Internship at Learn Depth™.
-
+Predicts whether a student on an online learning platform will **purchase a course**, using learning-behavior data.
 ## Project structure
 
 ```
